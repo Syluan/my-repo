@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-#####hello
-=======
-CHÀO SỸ LUÂN 
->>>>>>> feature
+
+#####hello1
